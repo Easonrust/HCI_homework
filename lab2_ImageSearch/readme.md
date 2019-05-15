@@ -174,7 +174,7 @@ def dislike_img0():
 
 ### Overview
 
-![Ui](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\Ui.png)
+![Ui](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/Ui.png)
 
 ## Test the Features
 
@@ -182,41 +182,41 @@ def dislike_img0():
 
 #### Input
 
-![input_1](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\input_1.png)
+![input_1](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/input_1.png)
 
 #### Output
 
-![output_1](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\output_1.png)
+![output_1](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/output_1.png)
 
 ### Search with Tags
 
 #### Input
 
-![input_2](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\input_2.png)
+![input_2](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/input_2.png)
 
 #### Output
 
-![output_2](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\output_2.png)
+![output_2](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/output_2.png)
 
 ### Favourite List
 
 #### Input
 
-![input_3](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\input_3.png)
+![input_3](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/input_3.png)
 
 #### Output
 
-![output_3](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\output_3.png)
+![output_3](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/output_3.png)
 
 ### Delete Images from List
 
 #### Input
 
-![input_4](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\input_4.png)
+![input_4](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/input_4.png)
 
 #### Output
 
-![output_4](C:\Users\yangl\Desktop\交互设计\lab2-image retrieval\lab2-image retrieval\server\output_4.png)
+![output_4](https://github.com/Easonrust/HCI_homework/blob/master/lab2_ImageSearch/img/output_4.png)
 
 ## How to Run My code
 
