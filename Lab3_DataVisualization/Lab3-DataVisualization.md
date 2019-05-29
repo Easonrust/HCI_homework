@@ -16,7 +16,7 @@ I realize three data analysis tasks for my assignment.
 
 I choose three types of visual encodings which are scatter, column and pie. The scatter graph is for ***Salaries by College Type*** and ***Salaries by Region*** . The column graph is for ***Salaries by Major Type***. The pie graph is for ***Number of Schools by College Type***.
 
-![1](C:\Users\yangl\Desktop\1.png)
+![1](https://github.com/Easonrust/HCI_homework/blob/master/Lab3_DataVisualization/img/layout.png)
 
 ### Derive values of models from source data
 
@@ -63,19 +63,19 @@ if dateset=='Salaries by Region':
         }
 ```
 
-![1558968792744](C:\Users\yangl\AppData\Roaming\Typora\typora-user-images\1558968792744.png)
+![1558968792744](https://github.com/Easonrust/HCI_homework/blob/master/Lab3_DataVisualization/img/pie1.png)
 
-![1558968816064](C:\Users\yangl\AppData\Roaming\Typora\typora-user-images\1558968816064.png)
+![1558968816064](https://github.com/Easonrust/HCI_homework/blob/master/Lab3_DataVisualization/img/pie2.png)
 
 ### Sort items to expose patterns
 
 I set two dropdowns for my assignment and you can use them to choose based types for axises of the scatter graph.
 
-![1558968993377](C:\Users\yangl\AppData\Roaming\Typora\typora-user-images\1558968993377.png)
+![1558968993377](https://github.com/Easonrust/HCI_homework/blob/master/Lab3_DataVisualization/img/dropdown.png)
 
-![1558969010781](C:\Users\yangl\AppData\Roaming\Typora\typora-user-images\1558969010781.png)
+![1558969010781](https://github.com/Easonrust/HCI_homework/blob/master/Lab3_DataVisualization/img/changeSort.png)
 
-![1558969039437](C:\Users\yangl\AppData\Roaming\Typora\typora-user-images\1558969039437.png)
+![1558969039437](https://github.com/Easonrust/HCI_homework/blob/master/Lab3_DataVisualization/img/scatter.png)
 
 ## Layout and Patterns
 
@@ -83,7 +83,7 @@ I set two dropdowns for my assignment and you can use them to choose based types
 
 There are one tab and three dropdowns above three graphs.
 
-![1](C:\Users\yangl\Desktop\1.png)
+![1](https://github.com/Easonrust/HCI_homework/blob/master/Lab3_DataVisualization/img/layout.png)
 
 Patterns
 
